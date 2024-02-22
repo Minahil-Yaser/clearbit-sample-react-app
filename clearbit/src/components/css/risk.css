@@ -1,0 +1,30 @@
+.container5{
+    background-color: #A6DCEF;
+    display: block;
+    margin-top: 100px;
+    margin-left:auto ;
+    margin-right:auto;
+    width: 500px;
+    height: 500px;
+}
+
+.feilds{
+    padding-top: 50px;
+    margin-left:140px
+}
+
+.view{
+    width:120px; 
+    height:38px; 
+    font-size: large; 
+    background-color: #20a7db; 
+    border-color: #20a7db; 
+    border-radius: 3px;
+    color:white
+}
+
+.risk_head{
+    text-align: center; 
+    color:#1c91c0;
+    padding-top: 80px;
+}

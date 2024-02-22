@@ -1,0 +1,50 @@
+.container3{
+    background-color: #A6DCEF;
+    display: block;
+    margin-top: 100px;
+    margin-left:auto ;
+    margin-right:auto;
+    width: 1000px;
+    height: 1200px;
+    margin-bottom: 100px;
+  }
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+   }
+   .column2 {
+    float: left;
+    width: 60%;
+    padding: 5px;
+   }
+
+    /* Clearfix (clear floats) */
+    .row::after {
+    content: "";
+    clear: both;
+    display: table;
+   }
+
+.name_heading{
+    margin-left:200px;
+    margin-top:45px
+}
+.bio{
+    margin-left:200px;
+}
+
+.avatar{
+    border-radius:15px; 
+    margin-left: 130px; 
+    margin-top: 40px;
+}
+
+.text_top{
+    margin-left:130px;
+    margin-top:30px
+}
+
+.text_normal{
+    margin-left:130px;
+}

@@ -1,0 +1,59 @@
+.container4{
+    background-color: #A6DCEF;
+    display: block;
+    margin-top: 100px;
+    margin-left:auto ;
+    margin-right:auto;
+    width: 1000px;
+    height: 1700px;
+    margin-bottom: 100px;
+
+  }
+
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+   }
+   .column2 {
+    float: left;
+    width: 60%;
+    padding: 5px;
+   }
+
+    /* Clearfix (clear floats) */
+    .row::after {
+    content: "";
+    clear: both;
+    display: table;
+   }
+
+   .logo{
+    border-radius:15px; 
+    margin-left: 130px; 
+    margin-top: 40px;
+   }
+
+   .comp_name{
+    margin-left:200px;
+    margin-top:45px;
+   }
+
+   .tags{
+    padding-top:-10px;
+    font-size: small; 
+    margin-left:200px
+   }
+
+   .description{
+   margin-left:200px;
+   }
+
+   .head2{
+    margin-left:130px; 
+    margin-top:30px;
+   }
+
+   .metrics{
+    margin-left:130px;
+   }
